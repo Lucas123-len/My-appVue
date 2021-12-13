@@ -1,0 +1,133 @@
+{
+  "clientes": [
+    {
+      "id": 0,
+      "nome": "Fernando",
+      "endereco": "rua bonifácio",
+      "idade": 20,
+      "telefone": "22999056332",
+      "email": "nando@hotmail.com"
+    },
+    {
+      "id": 1,
+      "nome": "Pâmela",
+      "endereco": "rua francisco de assis",
+      "idade": "17",
+      "telefone": "22981990342",
+      "email": "pamela@gmail.com"
+    },
+    {
+      "id": 2,
+      "nome": "Henrique",
+      "endereco": "rua castello branco",
+      "idade": "22",
+      "telefone": "22998586132",
+      "email": "rique@gmail.com"
+    },
+    {
+      "id": "4",
+      "nome": "Lucas",
+      "endereco": "Rua Pastor Ruben",
+      "idade": "23",
+      "telefone": "22998042223",
+      "email": "lucasr@hotmail.com"
+    }
+  ],
+  "animais": [
+    {
+      "id": 0,
+      "nome": "pitu",
+      "raca": "buldog",
+      "porte": "médio",
+      "sexo": "macho"
+    },
+    {
+      "id": 1,
+      "nome": "aquiles",
+      "raca": "golden retriver",
+      "porte": "grande",
+      "sexo": "macho"
+    },
+    {
+      "id": 2,
+      "nome": "lina",
+      "raca": "papagaio",
+      "porte": "pequeno",
+      "sexo": "fêmea"
+    }
+  ],
+  "produtos": [
+    {
+      "imagem": "https://i.ibb.co/RSQkFp8/Racao.jpg",
+      "id": 0,
+      "descricao": "ração",
+      "preco": 160
+    },
+    {
+      "imagem": "https://i.ibb.co/S6Xm1zb/Almofada.jpg",
+      "id": 1,
+      "descricao": "almofada",
+      "preco": 190
+    },
+    {
+      "imagem": "https://i.ibb.co/CKQy1xM/Shampoo.jpg",
+      "id": 2,
+      "descricao": "shampoo",
+      "preco": 30
+    },
+    {
+      "imagem": "https://i.ibb.co/G90t85M/Condicionador.png",
+      "id": 3,
+      "descricao": "condicionador",
+      "preco": 35.5
+    },
+    {
+      "imagem": "https://i.ibb.co/hWhqM4t/Alicate-De-Unha.jpg",
+      "id": 4,
+      "descricao": "alicate de unha",
+      "preco": 64
+    },
+    {
+      "imagem": "https://i.ibb.co/sm9Hs93/Blusinha.jpg",
+      "id": 5,
+      "descricao": "blusa",
+      "preco": 53
+    },
+    {
+      "imagem": "https://i.ibb.co/sFMQnps/La-os.jpg",
+      "id": 6,
+      "descricao": "laço",
+      "preco": 25
+    },
+    {
+      "imagem": "https://i.ibb.co/W3w4BP7/Bolinha.jpg",
+      "id": 7,
+      "descricao": "bolinha",
+      "preco": 6
+    },
+    {
+      "imagem": "https://i.ibb.co/6PRG80Z/Osso.jpg",
+      "id": 8,
+      "descricao": "osso",
+      "preco": 15
+    },
+    {
+      "imagem": "https://i.ibb.co/g93YVP1/Halter.jpg",
+      "id": 9,
+      "descricao": "halter",
+      "preco": 17
+    },
+    {
+      "imagem": "https://i.ibb.co/WD7HmqV/Casinha.jpg",
+      "id": 10,
+      "descricao": "casinha",
+      "preco": 157
+    },
+    {
+      "imagem": "https://i.ibb.co/StRqD0D/Caminha.jpg",
+      "id": 11,
+      "descricao": "caminha",
+      "preco": 110
+    }
+  ]
+}
